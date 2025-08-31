@@ -95,12 +95,7 @@ Investing-101-for-Tech-Professionals/
 ## 📞 联系方式
 
 - **GitHub Issues**: [创建问题](https://github.com/hankyuan/Investing-101-for-Tech-Professionals/issues)
-- **邮箱**: [您的邮箱]
-- **网站**: [您的网站]
-
-## 🙏 致谢
-
-特别感谢开源社区和所有使这个项目成为可能的贡献者。
+- **邮箱**: [您的邮箱]neiyohank@gmail.com
 
 ---
 

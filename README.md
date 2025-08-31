@@ -97,12 +97,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📞 Contact
 
 - **GitHub Issues**: [Create an issue](https://github.com/hankyuan/Investing-101-for-Tech-Professionals/issues)
-- **Email**: [Your email here]
-- **Website**: [Your website here]
-
-## 🙏 Acknowledgments
-
-Special thanks to the open-source community and all contributors who make this project possible.
+- **Email**: [Email]neiyohank@gmail.com
 
 ---
 

@@ -1,0 +1,26 @@
+# Python dependencies for Investing 101 for Tech Professionals
+# 技术专业人士投资入门指南的Python依赖
+
+# Core numerical computing
+numpy>=1.21.0
+pandas>=1.3.0
+
+# Data visualization
+matplotlib>=3.5.0
+seaborn>=0.11.0
+
+# Financial analysis
+yfinance>=0.1.70
+scipy>=1.7.0
+
+# Jupyter notebook support (optional)
+jupyter>=1.0.0
+ipykernel>=6.0.0
+
+# Data handling
+requests>=2.25.0
+openpyxl>=3.0.0
+
+# Statistical analysis
+scikit-learn>=1.0.0
+statsmodels>=0.13.0
